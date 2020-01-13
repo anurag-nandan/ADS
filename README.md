@@ -99,5 +99,6 @@ Please execute the following command on terminal from the directory where projec
 Executing the program
 Following command is for running the java program
 1. java risingCity “input text file.txt”
+
 Result
 The final output file will be created in the same directory where program will be executed and the name of file will be ‘Output.txt’.
